@@ -1,0 +1,5 @@
+streamlit==1.28.0
+requests==2.31.0
+pillow==10.4.0
+base64
+time
